@@ -1,9 +1,9 @@
 {
-  "name": "aclbot",
+  "name": "skynet",
   "version": "0.0.0",
   "private": true,
   "author": "Niel McLaren <d@nielmclaren.com>",
-  "description": "A simple helpful robot for ACL",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
